@@ -1,0 +1,3 @@
+- Show jake tasks
+./jake.sh --jakefile jakefile.js -T
+
